@@ -2,7 +2,8 @@
 
 ## Açıklama
 
-Çalışma Mekanları [reposundan](https://github.com/acikkaynak/calisma-mekanlari) readme.md dosyasını çekip düzenleyerek arayüzde gösteren site.
+Çalışma Mekanları [reposundan](https://github.com/ramazansancar/acikkaynak_calisma-mekanlari) readme.md dosyasını çekip düzenleyerek arayüzde gösteren site.
+> Repo ilk olarak [acikkaynak](https://github.com/acikkaynak/) organizasyonu içerisinde yer alan repo ile başlamış. Daha sonrasında kullanım dışı kaldığı için çatallanarak [reposu](https://github.com/ramazansancar/acikkaynak_calisma-mekanlari) ile devam edilmiştir.
 
 ## Geliştirme
 
